@@ -19,7 +19,7 @@
 
   <tr>
     <td><b>🏫 College</b></td>
-    <td>SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering (MPSTME), Mumbai</td>
+    <td>SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering (MPSTME), shirpur</td>
   </tr>
 
   <tr>
@@ -39,7 +39,7 @@
 
   <tr>
     <td><b>📍 Location</b></td>
-    <td>Mumbai, Maharashtra, India 🇮🇳</td>
+    <td>shirpur, Maharashtra, India 🇮🇳</td>
   </tr>
 
   <tr>
