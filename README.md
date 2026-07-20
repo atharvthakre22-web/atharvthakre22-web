@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Atharv Thakre</h1>
 
-<h3 align="center">Aspiring Software Developer | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">First-Year MBA Tech Student | Aspiring AI & Software Developer</h3>
 
 <p align="center">
-  Passionate about programming, problem-solving, and building innovative software.
-  <br>
-  Currently learning new technologies and improving my development skills every day.
+  Passionate about programming, problem-solving, and building innovative software.<br>
+  Currently exploring Artificial Intelligence, Machine Learning, and modern software development.
 </p>
 
 <hr>
@@ -24,13 +23,18 @@
   </tr>
 
   <tr>
-    <td><b>🎓 Branch</b></td>
-    <td>Your Branch</td>
+    <td><b>🎓 Program</b></td>
+    <td>MBA Tech</td>
+  </tr>
+
+  <tr>
+    <td><b>💻 Branch</b></td>
+    <td>Computer Engineering</td>
   </tr>
 
   <tr>
     <td><b>📅 Year</b></td>
-    <td>Your Year</td>
+    <td>First Year</td>
   </tr>
 
   <tr>
@@ -40,7 +44,7 @@
 
   <tr>
     <td><b>💡 Interests</b></td>
-    <td>Artificial Intelligence • Machine Learning • Web Development • Programming</td>
+    <td>Artificial Intelligence • Machine Learning • Software Development • Web Development</td>
   </tr>
 </table>
 
@@ -66,12 +70,24 @@
 <ul>
   <li>🤖 Artificial Intelligence</li>
   <li>🧠 Machine Learning</li>
-  <li>📖 Data Structures & Algorithms</li>
-  <li>🌐 Modern Web Development</li>
+  <li>☕ Object-Oriented Programming with Java</li>
+  <li>💻 Problem Solving & Data Structures</li>
+</ul>
+
+<hr>
+
+<h2>🎯 Goals</h2>
+
+<ul>
+  <li>🚀 Build impactful AI-powered applications</li>
+  <li>📖 Strengthen problem-solving and DSA skills</li>
+  <li>🌍 Contribute to open-source projects</li>
+  <li>💼 Secure a software engineering internship</li>
 </ul>
 
 <hr>
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile! ⭐
+  <b>⭐ Thanks for visiting my GitHub profile! ⭐</b><br>
+  <i>Always learning, always building.</i>
 </p>
