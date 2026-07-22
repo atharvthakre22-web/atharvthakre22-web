@@ -91,3 +91,32 @@
   <b>⭐ Thanks for visiting my GitHub profile! ⭐</b><br>
   <i>Always learning, always building.</i>
 </p>
+<hr>
+
+<h2>📬 Contact Me</h2>
+
+<p align="center">
+
+📧 <b>Email:</b><br>
+<a href="mailto:atharv.thakre22@gmail.com">atharv.thakre22@gmail.com</a>
+
+<br><br>
+
+💼 <b>LinkedIn:</b><br>
+<a href="https://www.linkedin.com/in/atharv-thakre-45305923b" target="_blank">
+www.linkedin.com/in/atharv-thakre-45305923b
+</a>
+
+<br><br>
+
+📱 <b>Phone:</b><br>
+<a href="tel:+918766529911">+91 87665 29911</a>
+
+</p>
+
+<hr>
+
+<p align="center">
+  <i>Feel free to connect with me for collaborations, projects, or networking!</i>
+</p>
+A more professional alternative (recommend
